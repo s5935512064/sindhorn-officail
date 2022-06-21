@@ -57,7 +57,7 @@ export default function Home() {
             Please forgive the inconvenience.We are currently initializing our brand new site.
           </p>
           <p className="md:text-xl font-light  max-w-lg mt-2 w-full text-center">
-            It's okay, we're excited too!
+            It is okay, we are excited too!
           </p>
         </div>
       </div>
